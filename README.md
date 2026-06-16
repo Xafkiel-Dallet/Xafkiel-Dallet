@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Xafkiel-Dallet
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? Active on insta
+- 👋 Hi, I’m Russel Endico.
+- 👀 I’m interested in programming and creating reliable contents.
+- 🌱 I’m currently learning programming and such things!
+- 📫 How to reach me? ruzuros60@gmail.com
 
 <!---
 Xafkiel-Dallet/Xafkiel-Dallet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

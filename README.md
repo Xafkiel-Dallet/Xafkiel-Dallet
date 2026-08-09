@@ -1,3 +1,5 @@
+<img src="./1786259235593.jpg" alt="Banner" style="width:100%; height:auto; border-radius:10px;">
+
 # 💫 About Me:
 College student who loves turning ideas into reality through code. I enjoy building responsive and reliable websites. When I'm not coding, you'll find me gaming or working on myself.
 

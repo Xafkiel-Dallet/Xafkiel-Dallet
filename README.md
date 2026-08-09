@@ -11,5 +11,3 @@ College student who loves turning ideas into reality through code. I enjoy build
 ![](https://github-readme-stats.shion.dev/api?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Xafkiel-Dallet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

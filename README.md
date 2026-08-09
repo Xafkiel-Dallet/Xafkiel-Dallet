@@ -8,7 +8,8 @@ College student who loves turning ideas into reality through code. I enjoy build
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Xafkiel-Dallet&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Xafkiel-Dallet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

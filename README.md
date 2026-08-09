@@ -12,10 +12,10 @@ College student who loves turning ideas into reality through code. I enjoy build
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=Xafkiel-Dallet&theme=dark&hide_border=false" width="400" />
+        <img src="https://streak-stats.demolab.com/?user=Xafkiel-Dallet&theme=dark&hide_border=false" width="494" />
       </td>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xafkiel-Dallet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="417" />
       </td>
     </tr>
   </table>

@@ -5,11 +5,6 @@ College student turning ideas into responsive, accessible web apps.
 Follows roadmap.sh/frontend roadmap.
 Get in touch at ruzuros60@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/russel-dave-endico), or on [GitHub](https://github.com/Xafkiel-Dallet).
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/discordapp.com/users/userid/827791231266455583) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/mrch.icken30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/russel-dave-endico-4b87203b1?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruzuros60@gmail.com) 
-
-
 # 📊 GitHub Stats:
 <div align="center">
   <table>

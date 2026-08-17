@@ -3,6 +3,7 @@
 # 💫 About Me:
 College student turning ideas into responsive, accessible web apps.
 Follows roadmap.sh/frontend roadmap.
+Get in touch at ruzuros60@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/russel-dave-endico), or on [GitHub](https://github.com/Xafkiel-Dallet).
 
 
 ## 🌐 Socials:
